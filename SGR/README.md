@@ -53,7 +53,7 @@ da Universidade Federal do Paraná, dentro das disciplina TI166 - Trabalho de Co
   </tr>  
   <tr align="center">    
     <td>
-      Arthur Barros           
+      Arthur Barroso           
     </td>  
     <td>
       <a href="https://br.linkedin.com/in/igor-juan-cordeiro-da-costa-2b4a77101" target="_blank">Igor Juan</a>                   
