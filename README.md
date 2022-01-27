@@ -1,5 +1,5 @@
-# Documentação
-Armazenamento da documentação de projetos
+# BiblioDoc
+Repositório destinado ao armazenamento e organização da documentação de projetos
 
 ## Índice
 
