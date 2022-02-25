@@ -10,6 +10,8 @@ Repositório destinado ao armazenamento e organização da documentação de pro
    * [Desafio Tunts](https://github.com/igorjuancc/BiblioDoc/blob/main/desafio-tunts/TUNTS%20-%20DESAFIO%20DE%20PROGRAMA%C3%87%C3%83O%20-%20N%C3%ADVEL%201.pdf)
    * [Laboratório Java](https://github.com/igorjuancc/documentacao/tree/main/LaboratorioJava)
    * [SGR - Sistema de Gerênciamento Residencial](https://github.com/igorjuancc/documentacao/tree/main/SGR)   
+   * [SIJOGA - Sistema Jurídico On-line Para Grandes Administrações](https://github.com/igorjuancc/BiblioDoc/blob/main/sijoga-sosifod/Trabalho%202020a%20-%20Sistemas%20Jur%C3%ADdicos.pdf)
+   * [SOSIFOD - Sistema Online Sobre Informações Factíveis de Oficiais de Justiça Do Paraná](https://github.com/igorjuancc/BiblioDoc/blob/main/sijoga-sosifod/Trabalho%202020a%20-%20Sistemas%20Jur%C3%ADdicos.pdf)
    * [Autor](#Autor)  
 <!--te-->
 
